@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - jazzy_debian
+
 jobs:
   release:
     runs-on: self-hosted
